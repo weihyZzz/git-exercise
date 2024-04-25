@@ -1,0 +1,1 @@
+const str = '开发index.js'
